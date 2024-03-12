@@ -32,6 +32,9 @@ export default defineConfig({
               base: '/code/js/',
               collapsed: true,
               items: [{
+                text: 'React源码调试',
+                link: 'reactDebug',
+              },{
                 text: '拷贝',
                 link: 'copy'
               }],
